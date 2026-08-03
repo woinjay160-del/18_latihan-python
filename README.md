@@ -1,1 +1,1 @@
-# latihan-python
+# 18_latihan.python
